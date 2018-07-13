@@ -1,6 +1,7 @@
 # Panoptes (front end)
 
 ![Build Status](https://travis-ci.org/zooniverse/Panoptes-Front-End.svg?branch=master)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FSebastianoPistore%2FPanoptes-Front-End.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FSebastianoPistore%2FPanoptes-Front-End?ref=badge_shield)
 
 ## Development
 
@@ -272,3 +273,7 @@ Thanks to [BrowserStack](https://www.browserstack.com) for supporting open
 source and allowing us to test this project on multiple platforms.
 
 [![BrowserStack logo](https://static.zooniverse.org/browserstack-logo-300x158.png)](https://www.browserstack.com)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FSebastianoPistore%2FPanoptes-Front-End.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FSebastianoPistore%2FPanoptes-Front-End?ref=badge_large)
